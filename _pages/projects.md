@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maya Lurie - Portfolio
-permalink: /projects/
+permalink: /projects/2025-Maya-Lurie-HW5-drawing
 ---
 
 <div class="gallery-container">

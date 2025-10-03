@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maya Lurie - Curriculum Vitae
-permalink: /assests/Maya-Lurie-Resume.pdf
+permalink: /assests/Maya Lurie Resume.pdf
 ---
 ## Curriculum Vitae
 

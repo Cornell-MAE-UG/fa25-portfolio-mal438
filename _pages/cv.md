@@ -5,7 +5,7 @@ permalink: /assests/Maya Lurie Resume.pdf
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Maya-Lurie-Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Maya Lurie Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890

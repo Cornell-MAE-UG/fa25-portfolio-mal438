@@ -1,0 +1,9 @@
+---
+layout: project
+title: Statics Actuator Drawing
+description: Statics Homework 5
+technologies: Hand-drawn on IPad
+image: /assets/images/Maya-Lurie-Actuator-Drawing.png
+---
+
+For this assingment we were given the task to design a frame/mechanism given specific specifications. We were given a 2D spave of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground and a linear actuator, picked from a catalog. We needed to design a frame/mechanism that would lift the maximum possible weight to the highest possible hight. What I chose to do was put two pins on the ground at the two lower oppisite end points of the given space (130.8 cm apart). On the left side pin I attached the RSX linear actuator to it on an 69 degree angle above the positive x axis. I made my rigid bar 140cm long and the stroke length of the linear actuator meet the top of the rigit bar. The point where the actuator and rigid bar meet is the load point. For the RSX, the max load is 294kN. 

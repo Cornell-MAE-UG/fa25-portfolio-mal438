@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Maya Lurie - Portfolio
 permalink: /projects/
 ---
 
